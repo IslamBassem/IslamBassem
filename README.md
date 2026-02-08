@@ -1,42 +1,57 @@
-### Hello! I'm Islam Bassem 👋
---------
-- 😄 I’m a Computer Engineering student at Ain Shams University.
-- ⚡ I'm interested in Problem Solving and actively competing in ICPC-style contests.
-- 🎓 Obour STEM School Graduate (S’24).
-- 📫 How to reach me: [islam.ouda1313@gmail.com]
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ammar-Abdel-Azeem/Ammar-Abdel-Azeem/main/cover.gif" alt="Header Banner" width="100%"/>
 
-![](https://komarev.com/ghpvc/?username=islambassem)
+  <h1 align="center">Hello! I'm Islam Bassem 👋</h1>
 
-### Connect with me:                  
-<p align="left">
-<a href="https://github.com/islambassem" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </picture>
-</a>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/islam-bassem-ab9b46232/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:islam.ouda1313@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://codeforces.com/profile/Smsmiano" target="_blank">
+      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+    </a>
+  </p>
+</div>
 
-<a href="https://www.linkedin.com/in/islam-bassem-ab9b46232/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </picture>
-</a>
+---
 
-<a href="https://codeforces.com/profile/Smsmiano" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ahmad3oda/Ahmad3oda/blob/main/cf.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ahmad3oda/Ahmad3oda/blob/main/cf.png" />
-    <img src="https://github.com/Ahmad3oda/Ahmad3oda/blob/main/cf.png" width="32" height="32" />
-  </picture>
-</a>
-</p>
+## 🚀 About Me  
 
-### Languages I Use:
-- **C++**
-- **Java**
-- **CSS**
+🎓 Computer Engineering Student at **Ain Shams University**  
+💻 Passionate about **Problem Solving & Competitive Programming**  
+⚡ Actively training for **ICPC-style contests**  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islambassem&layout=compact)
+---
+
+## 🛠️ Tech Arsenal  
+
+<table>
+  <tr>
+    <td align="center" width="180"><strong>Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=cpp,java,css" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 My GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=islambassem&show_icons=true&theme=radical&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=islambassem&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islambassem&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</div>
+
+---
+
+## 🌐 Connect & Collaborate  
+
+💡 Open to **competitive programming teams, projects, and collaborations**  
+📩 Reach me via [LinkedIn](https://www.linkedin.com/in/islam-bassem-ab9b46232/) or [Email](mailto:islam.ouda1313@gmail.com)
+
+⭐ Feel free to explore my repositories — feedback is always welcome!
